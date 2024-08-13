@@ -1,0 +1,1 @@
+The current project is a website that shows the practice done so far in html . The website shows
